@@ -50,8 +50,8 @@
  */
 
 
-	//Configure::write( 'Smarty.subDir', '');
-	//Configure::write( 'Smarty.layoutPath', '');
+	Configure::write( 'Smarty.subDir', '');
+	Configure::write( 'Smarty.layoutPath', '');
 
 
 
